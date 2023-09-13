@@ -1,0 +1,3 @@
+.card-image {
+    clip-path: polygon(0 0, 40% 0, 84% 100%, 0% 100%);
+}
