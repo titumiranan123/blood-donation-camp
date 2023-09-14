@@ -24,7 +24,7 @@ const Navbar = () => {
     return (
         <div className='flex flex-col '>
             <Topnav />
-            <div className='grid grid-cols-4 h-20 px-2 '>
+            <div className='grid grid-cols-4 h-20  '>
                 <div className="logo col-span-1 bg-red-600 -mt-3 px-5 text-xl  text-white flex justify-end items-center font-serif font-bold">Blad Ai</div>
                 <nav className='col-span-2 justify-center font-semibold hidden  font-serif  lg:flex items-center gap-3'>
                     <Customnav href={"/"} title={"Home"} className={'mr-5'} />

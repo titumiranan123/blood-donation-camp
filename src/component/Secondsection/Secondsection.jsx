@@ -14,9 +14,9 @@ const Secondsection = () => {
                     <Image alt='' className='absolute h-48 w-48 rounded-full lg:top-[58%] lg:left-[60%] md:top-[48%] top-20 left-48  md:left-[60%]' src={imgd} />
 
                 </div>
-                <div className='md:mt-10 space-y-5'>
+                <div className='md:mt-10 space-y-5 p-2'>
                     <p className="text-red-600 font-semibold ">HELP THE PEOPLE IN NEED</p>
-                    <p className='text-6xl font-bold'>Welcome to Blood <br /> Donors Organization</p>
+                    <p className='md:text-6xl text-5xl  font-bold'>Welcome to Blood <br /> Donors Organization</p>
                     <p className='text-slate-400'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias similique mollitia facere!</p>
                     <div className='flex flex-wrap md:flex-nowrap gap-32'>
                         <div>
