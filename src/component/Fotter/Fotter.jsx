@@ -122,7 +122,7 @@ const Footer = () => {
                         </div>
                     </form>
                 </div>
-                <div className='flex justify-center items-center flex-col gap-10'>
+                <div className='flex justify-center items-center flex-col gap-10 mt-10 md:mt-0'>
                     <div className='flex gap-4 '>
                         <FaFacebookSquare className=' hover:bg-red-600 hover:text-white bg-white text-4xl outline-none text-red-600' />
                         <FaTwitterSquare className=' hover:bg-red-600 hover:text-white bg-white text-4xl outline-none text-red-600' />
